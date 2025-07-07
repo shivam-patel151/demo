@@ -1,2 +1,3 @@
 # demo
-This is may first repository
+This is may first Git repository
+Author - Shivam Patel
